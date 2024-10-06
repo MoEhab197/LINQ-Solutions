@@ -20,7 +20,7 @@ namespace A6_LINQ
             _employees = ManageEmployees.GetEmployees(_dataFilePath);
             //T1();
             //T2();
-            //T3(); // the number is different for the one in the PDF, I revised it manually and the result in code is correct, please advice.
+            //T3();
             //T4();
             //T5();
             //T6();
