@@ -1,0 +1,50 @@
+1, Bassem Hegazy, Male, Egypt, 55, bassem.hegazy@kaitech.com, CEO, 01/08/2001, 180000, 25000
+2, John Smith, Male, USA, 32, john.smith@kaitech.com, Software Engineer, 01/12/2012, 55000, 5500
+3, Emily Johnson, Female, Canada, 44, emily.johnson@kaitech.com, Marketing Manager, 16/07/2005, 75000, 9000
+4, Luis Hernandez, Male, Mexico, 35, luis.hernandez@kaitech.com, Sales Representative, 16/02/2010, 60000, 6000
+5, Anna Kim, Female, South Korea, 29, anna.kim@kaitech.com, UX Designer, 16/10/2020, 35000, 3500
+6, Ahmed Hassan, Male, Egypt, 40, ahmed.hassan@kaitech.com, Senior Accountant, 01/05/2013, 62000, 7500
+7, Maria Silva, Female, Brazil, 26, maria.silva@kaitech.com, HR Coordinator, 01/09/2022, 33000, 3500
+8, Mohammad Rahman, Male, Bangladesh, 48, mohammad.rahman@kaitech.com, Project Manager, 01/06/2010, 85000, 9000
+9, Elena Petrov, Female, Russia, 26, elena.petrov@kaitech.com, Data Analyst, 01/07/2021, 37000, 3700
+10, Juan Lopez, Male, Spain, 27, juan.lopez@kaitech.com, IT Support Specialist, 01/08/2018, 27000, 2700
+11, Aisha Ahmed, Female, UAE, 24, aisha.ahmed@kaitech.com, Customer Service Representative, 01/01/2022, 21000, 2100
+12, Thomas Miller, Male, Australia, 47, thomas.miller@kaitech.com, Operations Director, 01/03/2011, 72000, 8000
+13, Sofia Gonzalez, Female, Argentina, 49, sofia.gonzalez@kaitech.com, Product Manager, 01/02/2009, 90000, 9000
+14, Yuki Tanaka, Japan, Male, 31, yuki.tanaka@kaitech.com, QA Engineer, 01/01/2018, 36000, 3600
+15, Fatima Khalid, Female, KSA, 30, fatima.khalid@kaitech.com, Data Scientist, 16/04/2016, 44000, 4400
+16, Andrei Popescu, Male, Romania, 33, andrei.popescu@kaitech.com, Sales Representative, 01/06/2015, 34000, 3400
+17, Leila Amir, Female, Iran, 31, leila.amir@kaitech.com, Graphic Designer, 16/09/2018, 36000, 3600
+18, Michael Johnson, Male, USA, 51, michael.johnson@kaitech.com, Chief Financial Director, 01/10/2005, 130000, 15000
+19, Camila Santos, Female, Brazil, 28, camila.santos@kaitech.com, Content Writer, 01/01/2018, 26000, 2600
+20, Ahmed Ali, Male, Egypt, 36, ahmed.ali@kaitech.com, Senior Software Engineer, 01/11/2017, 44000, 4400
+21, Emma Wilson, Female, UK, 32, emma.wilson@kaitech.com, Marketing Coordinator, 01/08/2017, 45000, 2200
+22, Javier Garcia, Male, Spain, 38, javier.garcia@kaitech.com, IT Deputy Manager, 01/10/2009, 83000, 4000
+23, Maryam Aziz, Female, Pakistan, 47, maryam.aziz@kaitech.com, HR Manager, 01/02/2002, 95000, 11000
+24, Alexei Ivanov, Male, Russia, 28, alexei.ivanov@kaitech.com, Data Scientist, 16/04/2019,  36000, 3600
+25, Chloe Tremblay, Female, Canada, 30, chloe.tremblay@kaitech.com, UX/UI Designer, 01/08/2018, 30000, 3000
+26, Ahmed Khan, Male, Pakistan, 25, ahmed.khan@kaitech.com, Frontend Developer, 01/02/2019, 27000, 2700
+27, Olivia Brown, Female, USA, 34, olivia.brown@kaitech.com, Senior Marketing Specialist, 01/04/2016, 38000, 3800
+28, Mateo Fernandez, Male, Argentina, 29, mateo.fernandez@kaitech.com, Sales Associate, 16/10/2020, 31000, 3100
+29, Lina Petrova, Female, Russia, 27, lina.petrova@kaitech.com, Data Analyst, 01/03/2020, 34000, 3400
+30, Amira Khalifa, Female, Egypt, 44, amira.khalifa@kaitech.com, Operations Manager, 01/11/2007, 85000, 10000
+31, Liam Murphy, Male, Ireland, 39, liam.murphy@kaitech.com, QA Manager, 01/02/2012, 75000, 9000
+32, Mohamed Ali, Male, Egypt, 26, mohamed.ali@kaitech.com, Software Engineer, 01/09/2020, 32000, 3200
+33, Mai Ezz, Female, Egypt, 25, mai.ezz@kaitech.com, Software Engineer, 01/10/2021, 30000, 3000
+34, Habiba Elsayed, Female, Egypt, 27, habiba.elsayed@kaitech.com, Software Engineer, 01/10/2018, 35000, 3500
+35, Ranbieer Kabour, Male, India, 33, r.kabour@kaitech.com, Software Engineer, 01/04/2015, 40000, 4000
+36, Amitabh Bachchan, Male, India, 44, amitabh.bachchan@kaitech.com, Software Architect, 01/10/2010, 65000, 8000
+37, Jackie Chan, Male, China, 55, jackiechan@kaitech.com, IT Manager, 01/10/2009, 92000, 11000
+38, Jason Statham, Male, USA, 35, jason.statham@kaitech.com, UX Designer, 16/07/2020, 38000, 3800
+39, Alaa Adel, Egypt, Male, 28, alaa.adel@kaitech.com, Accountant, 01/02/2018, 31000, 3500
+40, Mostafa Hussein, Male, Egypt, 27, mostafa.hussein@kaitech.com, Accountant, 01/06/2020, 28000, 3000
+41, David Silva, Male, Spain, 29, david.silva@kaitech.com, HR Recruiter, 16/12/2021, 29000, 2900
+42, Andres Iniesta, Male, Spain, 33, andres.iniesta@kaitech.com, HR Recruiter, 01/03/2027, 36000, 3600
+43, Ivan Lev, Male, Russia, 28, ivan.lev@kaitech.com, Data Analyst, 01/05/2019, 41000, 4100
+44, Iker Casillas, Male, Spain, 33, iker.casillas@kaitech.com, IT Support Specialist, 01/08/2015, 38000, 3800
+45, Boris Igor, Male, Russia, 27, boris.igor@kaitech.com, Data Analyst, 16/12/2021, 39000, 3900
+46, Mohamed Bin Zayed, Male, UAE, 32, mohamed.binzayed@kaitech.com, Senior Customer Service Representative, 01/02/2016, 29000, 2900
+47, Ali Mahmoud, Male, Egypt, 29, ali.mahmoud@kaitech.com, IT Support Specialist, 01/08/2017, 30000, 3000
+48, Xavi Hernandez, Male, Spain, 34, xavi.hernandez@kaitech.com, Senior Data Analyst, 01/06/2017, 52000, 5200
+49, Khadija Ahmed, Female, KSA, 26, khadija.ahmed@kaitech.com, Customer Service Representative, 01/06/2020, 23000, 2500
+50, Gaber Elsharkawy, Male, Egypt, 24, gaber.elsharkawy@kaitech.com, Software Engineer, 01/10/2022, 28000, 2600
